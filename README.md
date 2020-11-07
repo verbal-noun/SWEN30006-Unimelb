@@ -7,3 +7,6 @@ A somewhat practical core subject and made very very fun by my awesome teammates
 - [Andrew Shen](https://github.com/Redrew) 
 
 **Tips for future students**: You'll be spending a lot of time with your group in workshops and projects so choose them carefully. The teamwork and communication is the core of the subject. 
+
+Useful external website: 
+Desgin Patterns: https://refactoring.guru/
